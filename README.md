@@ -1,2 +1,2 @@
 # micard
-Just a simple UI which shows my name , email id and a pic
+Just a simple UI which shows my name , email id and a pic created using flutter
